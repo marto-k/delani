@@ -117,7 +117,12 @@ PORTFLIO SECTION
   background-image:url("../assets/assets/c_image.jpg");
   visibility:visible;
 }
-
+#space1{
+  height:50px;
+}
+#links{
+  padding-left:400px;
+}
 <<<<<<< HEAD
 <<<<<<< HEAD
     
