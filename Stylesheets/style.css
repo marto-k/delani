@@ -114,6 +114,7 @@ PORTFLIO SECTION
   height:100px;
 }
 #contact{
+background:none;
   background-image:url("../assets/assets/c_image.jpg");
   visibility:visible;
 }
@@ -122,6 +123,14 @@ PORTFLIO SECTION
 }
 #links{
   padding-left:400px;
+}
+#contact table form tr td {
+ visibility: visible;
+  opacity:0.5;
+}
+textarea{
+  visibility: visible;
+  opacity:2;
 }
 <<<<<<< HEAD
 <<<<<<< HEAD
